@@ -1,0 +1,19 @@
+{
+  "name": "magemello",
+  "version": "1.0.0",
+  "description": "Selenium test project",
+  "main": "spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magemello/adf-automation-qa.git"
+  },
+  "author": "Elyoha Ardelean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magemello/adf-automation-qa/issues"
+  },
+  "homepage": "https://github.com/magemello/adf-automation-qa#readme"
+}
